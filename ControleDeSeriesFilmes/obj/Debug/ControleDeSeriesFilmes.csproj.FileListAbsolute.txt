@@ -1,0 +1,15 @@
+C:\Users\Andre Bessa\Desktop\ControleDeSeriesFilmes\ControleDeSeriesFilmes\bin\Debug\ControleDeSeriesFilmes.exe.config
+C:\Users\Andre Bessa\Desktop\ControleDeSeriesFilmes\ControleDeSeriesFilmes\bin\Debug\ControleDeSeriesFilmes.exe
+C:\Users\Andre Bessa\Desktop\ControleDeSeriesFilmes\ControleDeSeriesFilmes\bin\Debug\ControleDeSeriesFilmes.pdb
+C:\Users\Andre Bessa\Desktop\ControleDeSeriesFilmes\ControleDeSeriesFilmes\bin\Debug\MySql.Data.dll
+C:\Users\Andre Bessa\Desktop\ControleDeSeriesFilmes\ControleDeSeriesFilmes\bin\Debug\MySql.Data.xml
+C:\Users\Andre Bessa\Desktop\ControleDeSeriesFilmes\ControleDeSeriesFilmes\obj\Debug\ControleDeSeriesFilmes.Properties.Resources.resources
+C:\Users\Andre Bessa\Desktop\ControleDeSeriesFilmes\ControleDeSeriesFilmes\obj\Debug\ControleDeSeriesFilmes.VIEW.FrmFilmes.resources
+C:\Users\Andre Bessa\Desktop\ControleDeSeriesFilmes\ControleDeSeriesFilmes\obj\Debug\ControleDeSeriesFilmes.VIEW.FrmPrincipal.resources
+C:\Users\Andre Bessa\Desktop\ControleDeSeriesFilmes\ControleDeSeriesFilmes\obj\Debug\ControleDeSeriesFilmes.csproj.GenerateResource.Cache
+C:\Users\Andre Bessa\Desktop\ControleDeSeriesFilmes\ControleDeSeriesFilmes\obj\Debug\ControleDeSeriesFilmes.exe
+C:\Users\Andre Bessa\Desktop\ControleDeSeriesFilmes\ControleDeSeriesFilmes\obj\Debug\ControleDeSeriesFilmes.pdb
+C:\Users\Andre Bessa\Desktop\ControleDeSeriesFilmes\ControleDeSeriesFilmes\obj\Debug\ControleDeSeriesFilmes.VIEW.ManterFilme.resources
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-2\6º Período\Linguagem de Programação III\31-10-2017\Codificação\ControleDeSeriesFilmes\ControleDeSeriesFilmes\bin\Debug\ControleDeSeriesFilmes.exe.config
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-2\6º Período\Linguagem de Programação III\31-10-2017\Codificação\ControleDeSeriesFilmes\ControleDeSeriesFilmes\obj\Debug\ControleDeSeriesFilmes.exe
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-2\6º Período\Linguagem de Programação III\31-10-2017\Codificação\ControleDeSeriesFilmes\ControleDeSeriesFilmes\obj\Debug\ControleDeSeriesFilmes.pdb
